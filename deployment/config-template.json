@@ -1,0 +1,45 @@
+{
+  "project_name": "skiny-hub",
+  "github": {
+    "repo_url": "",
+    "branch": "main"
+  },
+  "vercel": {
+    "url": "",
+    "project_id": "",
+    "team_id": ""
+  },
+  "render": {
+    "backend_service_name": "skiny-hub-backend",
+    "backend_url": "",
+    "database_name": "skiny-hub-db",
+    "database_url": "",
+    "region": "oregon"
+  },
+  "stripe": {
+    "mode": "test",
+    "publishable_key": "",
+    "secret_key": "",
+    "webhook_secret": "",
+    "webhook_url": ""
+  },
+  "resend": {
+    "api_key": "",
+    "from_email": "noreply@yourdomain.com"
+  },
+  "telegram": {
+    "bot_token": "",
+    "bot_username": ""
+  },
+  "twilio": {
+    "enabled": false,
+    "account_sid": "",
+    "auth_token": "",
+    "phone_number": ""
+  },
+  "cloudflare": {
+    "enabled": false,
+    "account_id": "",
+    "r2_bucket": ""
+  }
+}

@@ -1,0 +1,8 @@
+# Secrets - никогда не коммитить!
+.secrets.json
+*.env
+*.env.local
+
+# Deployment artifacts
+*.log
+deployment-*.json
